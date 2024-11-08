@@ -1,0 +1,19 @@
+/* src/components/App/App.module.css */
+.appContainer {
+  border: 2px solid red; /* App bileşeni için kırmızı çerçeve */
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-size: 16px;
+  color: blue; /* Açıklama için mavi renk */
+  margin-bottom: 20px;
+}

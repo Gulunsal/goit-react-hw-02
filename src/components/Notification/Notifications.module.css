@@ -1,0 +1,10 @@
+/* src/components/Notification/Notification.module.css */
+.notification {
+  color: grey;
+  font-style: italic;
+  font-size: 14px;
+  padding: 10px;
+  border: 1px dashed #ccc;
+  text-align: center;
+  margin-top: 20px;
+}

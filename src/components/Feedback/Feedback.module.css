@@ -1,0 +1,11 @@
+/* src/components/Feedback/Feedback.module.css */
+.feedbackContainer {
+  border: 2px solid orange; /* Feedback bileşeni için turuncu çerçeve */
+  padding: 10px;
+}
+
+.stat {
+  font-size: 14px;
+  margin: 5px 0;
+  color: #333;
+}

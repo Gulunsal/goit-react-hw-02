@@ -1,0 +1,21 @@
+/* src/components/Options/Options.module.css */
+.optionsContainer {
+  border: 2px solid purple; /* Options bileşeni için mor çerçeve */
+  padding: 10px;
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 14px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.button:hover {
+  background-color: #e0e0e0;
+}
