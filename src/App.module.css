@@ -1,6 +1,6 @@
 /* src/components/App/App.module.css */
 .appContainer {
-  border: 2px solid red; /* App bileşeni için kırmızı çerçeve */
+  border: 2px solid rgb(75, 75, 74);
   padding: 20px;
   max-width: 600px;
   margin: 0 auto;

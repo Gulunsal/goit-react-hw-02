@@ -1,7 +1,8 @@
 /* src/components/Feedback/Feedback.module.css */
 .feedbackContainer {
-  border: 2px solid orange; /* Feedback bileşeni için turuncu çerçeve */
+  border: 2px solid rgb(75, 75, 74);
   padding: 10px;
+  background-color: aliceblue;
 }
 
 .stat {
