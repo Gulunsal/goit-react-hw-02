@@ -1,6 +1,6 @@
 /* src/components/Options/Options.module.css */
 .optionsContainer {
-  border: 2px solid rgb(75, 75, 74);
+  border: 1px solid rgb(75, 75, 74);
   background-color: aliceblue;
   padding: 10px;
   display: flex;
